@@ -1,0 +1,11 @@
+body{
+    overflow-x: hidden;
+}
+.hero-section{
+    background-color: #FFFBF0;
+    height: 740px;
+}
+/* .card-image{
+    height: 400px;
+    width: 300px;
+} */
